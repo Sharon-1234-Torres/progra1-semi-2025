@@ -1,0 +1,10 @@
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\bin\Debug\formu_básico.exe.config
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\bin\Debug\formu_básico.exe
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\bin\Debug\formu_básico.pdb
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.csproj.AssemblyReference.cache
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.Form1.resources
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.Properties.Resources.resources
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.csproj.GenerateResource.cache
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.csproj.CoreCompileInputs.cache
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.exe
+C:\Users\sharo\OneDrive\Escritorio\progra C# 2025\C1\progra1-semi-2025\formu_básico\formu_básico\obj\Debug\formu_básico.pdb
