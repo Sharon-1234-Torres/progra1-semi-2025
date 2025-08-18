@@ -1,0 +1,10 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\bin\Debug\calculadoraa.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\bin\Debug\calculadoraa.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\bin\Debug\calculadoraa.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\calculadoraa\calculadoraa\obj\Debug\calculadoraa.pdb
