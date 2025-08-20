@@ -1,0 +1,11 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\bin\Debug\ConversorMoneda2.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\bin\Debug\ConversorMoneda2.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\bin\Debug\ConversorMoneda2.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\ConversorMoneda2\ConversorMoneda2\obj\Debug\ConversorMoneda2.Form2.resources

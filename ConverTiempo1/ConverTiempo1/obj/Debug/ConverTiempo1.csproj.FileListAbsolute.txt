@@ -1,0 +1,10 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\bin\Debug\ConverTiempo1.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\bin\Debug\ConverTiempo1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\bin\Debug\ConverTiempo1.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverTiempo1\ConverTiempo1\obj\Debug\ConverTiempo1.pdb

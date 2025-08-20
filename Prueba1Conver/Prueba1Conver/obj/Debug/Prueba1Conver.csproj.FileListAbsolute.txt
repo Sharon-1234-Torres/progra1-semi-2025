@@ -1,0 +1,10 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\bin\Debug\Prueba1Conver.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\bin\Debug\Prueba1Conver.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\bin\Debug\Prueba1Conver.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\Prueba1Conver\Prueba1Conver\obj\Debug\Prueba1Conver.pdb

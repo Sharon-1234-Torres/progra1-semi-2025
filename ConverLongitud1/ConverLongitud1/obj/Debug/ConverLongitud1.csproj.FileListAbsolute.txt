@@ -1,0 +1,10 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\bin\Debug\ConverLongitud1.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\bin\Debug\ConverLongitud1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\bin\Debug\ConverLongitud1.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverLongitud1\ConverLongitud1\obj\Debug\ConverLongitud1.pdb

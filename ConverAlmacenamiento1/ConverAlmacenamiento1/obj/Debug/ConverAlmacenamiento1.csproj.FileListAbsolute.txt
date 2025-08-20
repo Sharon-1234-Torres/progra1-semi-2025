@@ -1,0 +1,10 @@
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\bin\Debug\ConverAlmacenamiento1.exe.config
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\bin\Debug\ConverAlmacenamiento1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\bin\Debug\ConverAlmacenamiento1.pdb
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.csproj.AssemblyReference.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.Form1.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.Properties.Resources.resources
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.csproj.GenerateResource.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.csproj.CoreCompileInputs.cache
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.exe
+C:\Users\sharo\source\repos\progra1-semi-2025\ConverAlmacenamiento1\ConverAlmacenamiento1\obj\Debug\ConverAlmacenamiento1.pdb
