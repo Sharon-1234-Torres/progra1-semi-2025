@@ -37,7 +37,7 @@ namespace ConverTiempo1
             this.txt2Resultado = new System.Windows.Forms.TextBox();
             this.cbo1ConvertirTiem = new System.Windows.Forms.ComboBox();
             this.cbo2ConvertidoTiem = new System.Windows.Forms.ComboBox();
-            this.bt1onvertir = new System.Windows.Forms.Button();
+            this.bt1Convertir = new System.Windows.Forms.Button();
             this.btn2Salir = new System.Windows.Forms.Button();
             this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -89,7 +89,7 @@ namespace ConverTiempo1
             // 
             this.txt2Resultado.Location = new System.Drawing.Point(235, 320);
             this.txt2Resultado.Name = "txt2Resultado";
-            this.txt2Resultado.Size = new System.Drawing.Size(100, 26);
+            this.txt2Resultado.Size = new System.Drawing.Size(423, 26);
             this.txt2Resultado.TabIndex = 5;
             // 
             // cbo1ConvertirTiem
@@ -106,7 +106,7 @@ namespace ConverTiempo1
             "Siglo",
             "Segundo",
             "Milisegundo"});
-            this.cbo1ConvertirTiem.Location = new System.Drawing.Point(198, 215);
+            this.cbo1ConvertirTiem.Location = new System.Drawing.Point(460, 215);
             this.cbo1ConvertirTiem.Name = "cbo1ConvertirTiem";
             this.cbo1ConvertirTiem.Size = new System.Drawing.Size(198, 28);
             this.cbo1ConvertirTiem.TabIndex = 6;
@@ -125,20 +125,20 @@ namespace ConverTiempo1
             "Siglo",
             "Segundo",
             "Milisegundo"});
-            this.cbo2ConvertidoTiem.Location = new System.Drawing.Point(487, 215);
+            this.cbo2ConvertidoTiem.Location = new System.Drawing.Point(198, 210);
             this.cbo2ConvertidoTiem.Name = "cbo2ConvertidoTiem";
             this.cbo2ConvertidoTiem.Size = new System.Drawing.Size(200, 28);
             this.cbo2ConvertidoTiem.TabIndex = 7;
             // 
-            // bt1onvertir
+            // bt1Convertir
             // 
-            this.bt1onvertir.Location = new System.Drawing.Point(170, 387);
-            this.bt1onvertir.Name = "bt1onvertir";
-            this.bt1onvertir.Size = new System.Drawing.Size(136, 66);
-            this.bt1onvertir.TabIndex = 8;
-            this.bt1onvertir.Text = "Convertir";
-            this.bt1onvertir.UseVisualStyleBackColor = true;
-            this.bt1onvertir.Click += new System.EventHandler(this.button1_Click);
+            this.bt1Convertir.Location = new System.Drawing.Point(170, 387);
+            this.bt1Convertir.Name = "bt1Convertir";
+            this.bt1Convertir.Size = new System.Drawing.Size(136, 66);
+            this.bt1Convertir.TabIndex = 8;
+            this.bt1Convertir.Text = "Convertir";
+            this.bt1Convertir.UseVisualStyleBackColor = true;
+            this.bt1Convertir.Click += new System.EventHandler(this.button1_Click);
             // 
             // btn2Salir
             // 
@@ -167,7 +167,7 @@ namespace ConverTiempo1
             this.ClientSize = new System.Drawing.Size(855, 488);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.btn2Salir);
-            this.Controls.Add(this.bt1onvertir);
+            this.Controls.Add(this.bt1Convertir);
             this.Controls.Add(this.cbo2ConvertidoTiem);
             this.Controls.Add(this.cbo1ConvertirTiem);
             this.Controls.Add(this.txt2Resultado);
@@ -193,7 +193,7 @@ namespace ConverTiempo1
         private System.Windows.Forms.TextBox txt2Resultado;
         private System.Windows.Forms.ComboBox cbo1ConvertirTiem;
         private System.Windows.Forms.ComboBox cbo2ConvertidoTiem;
-        private System.Windows.Forms.Button bt1onvertir;
+        private System.Windows.Forms.Button bt1Convertir;
         private System.Windows.Forms.Button btn2Salir;
         private System.Windows.Forms.Label label5;
     }

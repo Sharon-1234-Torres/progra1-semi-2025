@@ -20,9 +20,9 @@ namespace ConverTiempo1
         private void button1_Click(object sender, EventArgs e)
         {
             Double convertirTiem = 1, convertidoTiem = 1, ResultadoTiem = 0, CantidadTiem = 0;
-            Double minuto = 1, hora = 60, dia = 1440, semana = 100080, mes = 43800, 
-                ao = 525600, decada = 5.256000000, siglo = 5.2560000000, segundo = 60, 
-                milisegundo = 60000;
+            Double minuto = 1.0, hora = 60.0, dia = 24.0 * 60.0, semana = 7.0 *  24.0 * 60.0, 
+                mes = 365.0 * 24.0 * 60.0 / 12.0, ao = 365.0 * 24.0 * 60.0, decada = 365.0 * 24.0 * 60.0 * 10.0, 
+                siglo = 365.0 * 24.0 * 60.0, segundo = 1.0 / 60.0, milisegundo = 1.0 / 60000.0;
 
             if (!Double.TryParse(txt1CantidadTiem.Text, out CantidadTiem))
             {
@@ -85,7 +85,7 @@ namespace ConverTiempo1
 
             ResultadoTiem = CantidadTiem * (convertidoTiem / convertirTiem);
 
-            txt2Resultado.Text = ResultadoTiem.ToString("F4");
+            txt2Resultado.Text = ResultadoTiem.ToString("F2");
         }
 
         private void btn2Salir_Click(object sender, EventArgs e)
