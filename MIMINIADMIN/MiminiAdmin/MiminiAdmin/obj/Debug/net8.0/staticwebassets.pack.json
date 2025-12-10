@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\imagen\\gestion_img.png",
+      "PackagePath": "staticwebassets\\imagen\\gestion_img.png"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Empleados.html",
+      "PackagePath": "staticwebassets\\views\\Empleados.html"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Inventario.html",
+      "PackagePath": "staticwebassets\\views\\Inventario.html"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Producto.html",
+      "PackagePath": "staticwebassets\\views\\Producto.html"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_empleados.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_empleados.html"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_inventario.html",
+      "PackagePath": "staticwebassets\\views\\busqueda_inventario.html"
+    },
+    {
+      "Id": "C:\\Users\\sharo\\OneDrive\\Escritorio\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\index.html",
+      "PackagePath": "staticwebassets\\views\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MiminiAdmin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MiminiAdmin.props",
+      "PackagePath": "build\\MiminiAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MiminiAdmin.props",
+      "PackagePath": "buildMultiTargeting\\MiminiAdmin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MiminiAdmin.props",
+      "PackagePath": "buildTransitive\\MiminiAdmin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

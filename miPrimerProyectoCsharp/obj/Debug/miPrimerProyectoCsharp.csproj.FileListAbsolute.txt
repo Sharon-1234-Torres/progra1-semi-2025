@@ -1,0 +1,32 @@
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe.config
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.pdb
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.AssemblyReference.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Form1.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Properties.Resources.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.GenerateResource.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe.config
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.exe
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\miPrimerProyectoCsharp.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.AssemblyReference.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Form1.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.Properties.Resources.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.GenerateResource.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.csproj.CoreCompileInputs.cache
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.exe
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.pdb
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica.mdf
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica_log.ldf
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica.mdf
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\bin\Debug\db_academica_log.ldf
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPrincipal.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPrincipal.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPeriodos.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmMaterias.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmPeriodos.resources
+D:\Users\Estudiante\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmNotas.resources
+C:\Users\Luis Hernandez\Desktop\PrograI-Semi-2025\miPrimerProyectoCsharp\miPrimerProyectoCsharp\obj\Debug\miPrimerProyectoCsharp.frmNotas.resources

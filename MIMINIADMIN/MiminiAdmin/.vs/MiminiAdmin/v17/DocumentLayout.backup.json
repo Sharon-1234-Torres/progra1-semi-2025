@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\wwwroot\\views\\busqueda_empleados.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\wwwroot\\views\\busqueda_empleados.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\wwwroot\\views\\empleados.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\wwwroot\\views\\empleados.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\wwwroot\\views\\busqueda_inventario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\wwwroot\\views\\busqueda_inventario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\wwwroot\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\wwwroot\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\wwwroot\\views\\inventario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\wwwroot\\views\\inventario.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|c:\\users\\sharo\\source\\repos\\progra1-semi-2025\\miminiadmin\\miminiadmin\\miminiadmin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD490C0-B823-4FF8-A582-0B8D5CF89890}|MiminiAdmin\\MiminiAdmin.csproj|solutionrelative:miminiadmin\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "MiminiAdmin\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "MiminiAdmin\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T04:01:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "busqueda_empleados.html",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_empleados.html",
+              "RelativeDocumentMoniker": "MiminiAdmin\\wwwroot\\views\\busqueda_empleados.html",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_empleados.html",
+              "RelativeToolTip": "MiminiAdmin\\wwwroot\\views\\busqueda_empleados.html",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAACUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-05T16:13:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiminiAdmin\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiminiAdmin\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAywHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-05T14:09:31.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\index.html",
+              "RelativeDocumentMoniker": "MiminiAdmin\\wwwroot\\views\\index.html",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\index.html",
+              "RelativeToolTip": "MiminiAdmin\\wwwroot\\views\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-05T13:49:02.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Empleados.html",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Empleados.html",
+              "RelativeDocumentMoniker": "MiminiAdmin\\wwwroot\\views\\Empleados.html",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Empleados.html",
+              "RelativeToolTip": "MiminiAdmin\\wwwroot\\views\\Empleados.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-05T13:47:55.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "busqueda_inventario.html",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_inventario.html",
+              "RelativeDocumentMoniker": "MiminiAdmin\\wwwroot\\views\\busqueda_inventario.html",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\busqueda_inventario.html",
+              "RelativeToolTip": "MiminiAdmin\\wwwroot\\views\\busqueda_inventario.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-05T09:04:38.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario.html",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Inventario.html",
+              "RelativeDocumentMoniker": "MiminiAdmin\\wwwroot\\views\\Inventario.html",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\progra1-semi-2025\\MIMINIADMIN\\MiminiAdmin\\MiminiAdmin\\wwwroot\\views\\Inventario.html",
+              "RelativeToolTip": "MiminiAdmin\\wwwroot\\views\\Inventario.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-05T08:23:56.554Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
